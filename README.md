@@ -95,11 +95,11 @@ Model dikompilasi menggunakan optimizer Adam (learning rate 1e-4) dan loss categ
 
 | Model | Confusion Matrix |
 |------|------------------|
-| **Base CNN** | <img width="691" height="607" alt="image" src="https://github.com/user-attachments/assets/6bcd82a2-2702-475e-b18e-54172be32fee" /> |
+| **Base CNN** | <img width="691" height="607" alt="image" src="https://github.com/user-attachments/assets/6bcd82a2-2702-475e-b18e-54172be32fee" /> 
 
-| **VGG16 Transfer Learning** | <img width="655" height="591" alt="image" src="https://github.com/user-attachments/assets/50608e35-9f70-4adb-be7f-af6a102e9eb7" /> |
+| **VGG16 Transfer Learning** | <img width="655" height="591" alt="image" src="https://github.com/user-attachments/assets/50608e35-9f70-4adb-be7f-af6a102e9eb7" /> 
 
-| **MobileNetV2 Transfer Learning** | !<img width="651" height="597" alt="image" src="https://github.com/user-attachments/assets/6213e5fb-8f85-41b6-a3fd-32d725414065" /> |
+| **MobileNetV2 Transfer Learning** | !<img width="651" height="597" alt="image" src="https://github.com/user-attachments/assets/6213e5fb-8f85-41b6-a3fd-32d725414065" /> 
 
 
 
